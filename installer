@@ -955,7 +955,7 @@ rm -f /root/installer.sh
 }
 
 
-#Selecting UserType
+#Selecting UserTyp
 clear
 show_menu
 echo -e "                $GREEN Type of your Server  $RESET"
